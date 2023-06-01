@@ -11,4 +11,10 @@ sss
 sss
 sss
 sss
+<<<<<<< HEAD
+=======
+sss
+sss
+sss
+>>>>>>> master
 sss
